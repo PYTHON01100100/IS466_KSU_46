@@ -1,0 +1,14 @@
+Qz1 :is 466 „Õ„œ ‘⁄Ì»
+
+1- what are the four phases of the decision making and explain in detail ?
+
+2- what does mean " simulation 'and select the simulation methodology .
+
+3- what is OLAP operation ? " 1-roll up 2- ... 3- .... 4- ....
+
+qz2:
+
+1- what is the best traversing order to do mulitway aggergation ? ÿ—Ìﬁ Ì‰
+
+2- define star schema & snowflake in DMQL ?
+define cube sales_ ............
